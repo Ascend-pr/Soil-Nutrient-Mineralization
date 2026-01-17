@@ -146,5 +146,6 @@ It is suitable for showcasing skills for:
 
 _**👤 Author**_
 
-_Promise Odufuwa
-Soil Science Graduate | Data Analyst (Excel, Power BI, Tableau)_
+_Promise Odufuwa_
+
+_Soil Science Graduate | Data Analyst (Excel, Power BI, Tableau)_

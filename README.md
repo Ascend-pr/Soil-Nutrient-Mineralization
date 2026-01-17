@@ -1,11 +1,13 @@
 **🌱 Soil Nutrient Mineralization Dashboard (Excel)**
 
+---
 **📌 Overview**
 
 This project presents a single-page Excel dashboard designed to analyze soil nutrient mineralization under varying soil textures and amendment treatments during an incubation study.
 
 The dataset is synthetic but agronomically realistic, modeled after standard soil incubation experiments commonly used in soil fertility research.
 
+---
 **🎯 Project Objectives**
 
 1. Analyze nitrate mineralization trends over incubation periods
@@ -16,6 +18,7 @@ The dataset is synthetic but agronomically realistic, modeled after standard soi
 
 4. Communicate insights using KPIs and interactive Excel visuals
 
+---
 **🗂 Dataset Description**
 
 The dataset represents a controlled incubation experiment with the following variables:
@@ -62,6 +65,7 @@ The dataset represents a controlled incubation experiment with the following var
 
 All variables are stored in one Excel worksheet to enable seamless analysis and dashboard construction.
 
+---
 **🛠 Tools and Methods**
 
  - Microsoft Excel
@@ -76,6 +80,7 @@ All variables are stored in one Excel worksheet to enable seamless analysis and 
 
  - Dashboard layout and data visualization best practices
 
+---
 **📊 Dashboard Components**
 - [x] Key Performance Indicators (KPIs)
 
@@ -89,7 +94,8 @@ All variables are stored in one Excel worksheet to enable seamless analysis and 
 
 All KPIs update dynamically based on slicer selections.
 
-Visualizations
+---
+**Visualizations**
 
 1. Line chart showing nitrate mineralization over time
 
@@ -98,8 +104,9 @@ Visualizations
     - Average nitrate concentration by treatment and soil texture
 
     - Average phosphate concentration by treatment and soil texture
-**
-Interactivity**
+
+---      
+**Interactivity**
 
 The dashboard includes slicers for:
 
@@ -111,6 +118,7 @@ The dashboard includes slicers for:
 
 These slicers allow users to filter and explore nutrient behavior under specific experimental conditions.
 
+---
 **💡 Key Insights**
 
  1. Fertilizer and biochar–fertilizer treatments produced higher nitrate mineralization over time
@@ -121,6 +129,7 @@ These slicers allow users to filter and explore nutrient behavior under specific
 
  4. Nutrient concentrations generally increased with incubation duration
 
+---
 **🚀 Use Case**
 
 
@@ -142,7 +151,7 @@ It is suitable for showcasing skills for:
 
  - Analytics-focused graduate programs
 
-
+---
 
 _**👤 Author**_
 
